@@ -1,12 +1,12 @@
-# VR_Gozluk_Tasarimi
+# VR Gözluk Tasarımı ve Üretimi
 
 ## Açıklama
 inventör üzerinden kendi VR Gözlük tasarımımı çizdim ve daha sonra bunu 3D Printer (Ender 3 V2) ile baskısını aldım. Daha sonra montajını gerçekleştirerek bir VR gözlük elde ettim. 
 
 DİKKAT! Tasarımda burun kısmı eksik kalmış eklemek isterseniz tasarım dosyaları sizlerle paylaşılmıştır. Üzerinde oynayarak istediğiniz şekle getirebilirsiniz.
 
-## Proje Resimleri
-
+## Proje Video
+https://youtu.be/GN2sdLJRhh0
 
 ## Proje Resimleri
 
